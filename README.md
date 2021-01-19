@@ -6,7 +6,7 @@
 
 # 一句话用法
 
-首先准备好数据源文件 `data.csv`，运行 `python get_result.py`，然后打开 `src` 目录下的 `bargraph.html`，点击页面中间的选择文件按钮，接着选择 `result.csv` 便可以看到可视化的结果。
+首先准备好数据源文件 `data.csv`，运行 `python get_result.py` 得到 `result.csv`，然后打开 `src` 目录下的 `bargraph.html`，点击页面中间的选择文件按钮，接着选择 `result.csv` 便可以看到可视化的结果。
 
 数据源文件 `data.csv` 格式如下：
 
