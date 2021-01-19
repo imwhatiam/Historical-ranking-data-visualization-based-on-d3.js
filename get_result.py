@@ -42,7 +42,7 @@ date_list = [
 ]
 
 mdd_date_list = []
-with open('huwai.csv', encoding='utf-8') as f:
+with open('data.csv', encoding='utf-8') as f:
     reader = csv.reader(f)
     header = next(reader)
     for row in reader:
