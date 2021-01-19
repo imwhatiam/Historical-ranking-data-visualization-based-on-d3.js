@@ -322,12 +322,12 @@ function draw(data) {
       .attr("y", text_y)
       .text(itemLabel);
 
-    // 右1文字
-    g.insert("text")
-      .attr("class", "growth")
-      .attr("x", text_x)
-      .attr("y", text_y)
-      .text(typeLabel);
+//    // 右1文字
+//    g.insert("text")
+//      .attr("class", "growth")
+//      .attr("x", text_x)
+//      .attr("y", text_y)
+//      .text(typeLabel);
 
     // 榜首日期计数
     if (use_counter == true) {
