@@ -4,8 +4,6 @@
 
 <h3 align="center">将历史数据排名转化为动态柱状图图表</h3>
 
-fork from: https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js
-
 # 一句话用法
 
 首先准备好数据源文件 `data.csv`，运行 `python get_result.py`，然后打开 `src` 目录下的 `bargraph.html`，点击页面中间的选择文件按钮，接着选择 `result.csv` 便可以看到可视化的结果。
